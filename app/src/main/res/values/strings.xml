@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Yearbook App</string>
+    <string name="katherine_wagner">Katherine Wagner</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
